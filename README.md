@@ -2,12 +2,13 @@
   <tr>
     <td>
       <h1> Who I Am ? </h1>
-      <b>A student who wants to be a fullstack developer. I study about</b>
+      <b>A student who wants to be a fullstack developer. I'm from Brazil and I study about</b>
       <ul>
         <li>Javascript</li>
         <li>Typescript</li>
         <li>React</li>
         <li>Node</li>
+        <li>English</li>
       </ul>  
      <h2> Communication </h2>
         <p float="left">
