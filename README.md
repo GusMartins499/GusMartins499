@@ -19,5 +19,5 @@
 - UX/UI
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333">
+<span><img src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true"></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333"></span>
