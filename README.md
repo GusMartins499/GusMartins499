@@ -18,6 +18,14 @@
 - NextJS
 - UX/UI
 
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true"></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333"></span>
+<details>
+  <summary>:fire: My stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true">
+</details>
+<br/>
