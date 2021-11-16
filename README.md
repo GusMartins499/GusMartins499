@@ -1,22 +1,23 @@
-<table>
-  <tr>
-    <td>
-      <h1> Who I Am ? </h1>
-      <b>A student who wants to be a fullstack developer. I'm from Brazil and I study about</b>
-      <ul>
-        <li>Javascript</li>
-        <li>Typescript</li>
-        <li>React</li>
-        <li>Node</li>
-        <li>English</li>
-      </ul>  
-     <h2> Communication </h2>
-        <p float="left">
-          
-  [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/gusmartins499) &nbsp;&nbsp;
-  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:gustavosm994@gmail.com)
- 
-</p>
-      </td>
-   </tr>
-</table>
+# Hi !
+
+**I'm Gustavo, a software developer from Brazil**
+
+**If you want to contact to me:**
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavos_m/)](https://www.instagram.com/gustavos_m/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/gusmartins994)](https://twitter.com/Yaronzz)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosm994@gmail.com.com)](mailto:gustavosm994@gmail.com.com)
+
+## About Me
+- :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
+- :rocket: I love web programing
+  
+## I'm interested in
+
+- Blockchain
+- NextJS
+- UX/UI
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333">
