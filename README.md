@@ -11,6 +11,9 @@
 ## About Me
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
 - :rocket: I love web programing
+- :aries: I was born on April 4, 1999
+- :brazil: I'm from Brazil, but I currently live in Portugal :portugal:
+- :magic_wand: In my free time, I like to learn about magic
   
 ## I'm interested in
 
@@ -18,14 +21,6 @@
 - NextJS
 - UX/UI
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
+  [![Stats](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&theme=radical" width="435" height="195">
 
-<details>
-  <summary>:fire: My stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&hide_border=true">
-</details>
-<br/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true)
