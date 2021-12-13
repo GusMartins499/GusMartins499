@@ -21,6 +21,6 @@
 - NextJS
 - UX/UI
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical)&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&theme=radical" width="305">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&theme=radical)&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmartins499&layout=compact&theme=radical" width="305" height="195">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true)
