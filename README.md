@@ -10,7 +10,7 @@
 
 ## About Me
 - :school: I'm a Computer Science student in UNISUL (Universidade do Sul de Santa Catarina)
-- :rocket: I love web programing
+- :rocket: I’m currently working at Plathanus as Fullstack Developer.
 - :aries: I was born on April 4, 1999
 - :brazil: I'm from Brazil
 - :magic_wand: In my free time, I like to learn about magic
