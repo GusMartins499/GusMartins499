@@ -17,7 +17,7 @@
   
 ## I'm interested in
 
-- Blockchain
+- React Native
 - NextJS
 - UX/UI
 
