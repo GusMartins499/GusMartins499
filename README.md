@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusmartins499&show_icons=true&locale=en&theme=radical" alt="gusmartins499" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmartins499&theme=radical" alt="gusmartins499" /></p>
+
+
+<a href="https://app.daily.dev/gusmartins994"><img src="https://api.daily.dev/devcards/9fef94011bbd4e39af3f5cfaf9877c64.png?r=hxy" width="400" alt="Gustavo Martins's Dev Card"/></a>
