@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-native, Typescript, NextJS, UX/UI, English**
 
-- 🎓 I'm a Computer Science student in [UNISUL](https://estude.unisul.br/)
+- 🎓 I'm a bachelor's degree in Computer Science
 
 - 🤝 I’m looking for help with **English**
 
