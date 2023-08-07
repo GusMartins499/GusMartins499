@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=Gusmartins499&theme=radical&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="gusmartins499" /></a> </p>
 
-- 🚀 I’m currently working on [Plathanus](https://plathanus.com.br)
-
 - 🌱 I’m currently learning **React-native, Typescript, NextJS, UX/UI, English**
 
 - 🎓 I'm a Computer Science student in [UNISUL](https://estude.unisul.br/)
